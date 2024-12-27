@@ -3,6 +3,8 @@
 
 This Python program models the various programs and events of a community organization focused on youth development. It uses Object-Oriented Programming (OOP) principles to manage and display details of different types of programs and events.
 
+![Python](https://skillicons.dev/icons?i=python)
+
 ## Features 🌟
 - **Programs**: Manage workshops, seminars, and other youth development programs.
 - **Events**: Track and manage different events, including fundraising and social gatherings.
