@@ -1,5 +1,5 @@
 
-## Isandla Community Organization { Program Management Software 🏢🎉 }
+## Isandla Community Organization {Program Management Software 🏢🎉}
 
 This Python program models the various programs and events of a community organization focused on youth development. It uses Object-Oriented Programming (OOP) principles to manage and display details of different types of programs and events.
 
