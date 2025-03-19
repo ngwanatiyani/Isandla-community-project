@@ -14,7 +14,7 @@ This Python program models the various programs and events of a community organi
 
 
  <details>
-   <summary> ##Classes 🧑‍💻</summary>
+   <summary>Classes 🧑‍💻</summary>
 
    ### 1. `Program` class 📝
 Represents a general program offered by the organization.
