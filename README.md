@@ -10,9 +10,13 @@ This Python program models the various programs and events of a community organi
 - **Events**: Track and manage different events, including fundraising and social gatherings.
 - **OOP Design**: Built using object-oriented programming to model the real-world organization structure.
 
-## Classes 🧑‍💻
 
-### 1. `Program` class 📝
+
+
+ <details>
+   <summary>## Classes 🧑‍💻</summary>
+
+   ### 1. `Program` class 📝
 Represents a general program offered by the organization.
 - Attributes: `title`, `description`, `date`
 - Method: `get_details()`
@@ -41,3 +45,6 @@ A subclass of `Event` representing a fundraising event.
 A subclass of `Event` representing a social gathering.
 - Additional Attribute: `event_type`
 - Method: `get_details()`
+
+   
+</details>
